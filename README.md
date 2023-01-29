@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.tenor.com/sVIyKjgnd8UAAAAC/aragorn-opening-door.gif"/>
+  <img src="https://media0.giphy.com/media/TcdpZwYDPlWXC/giphy.gif"/>
 </p>
