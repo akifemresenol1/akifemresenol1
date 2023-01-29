@@ -1,3 +1,7 @@
+ <p align="center">
+  <img src="https://media0.giphy.com/media/TcdpZwYDPlWXC/giphy.gif"/>
+</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -19,6 +23,4 @@
   
   </div>
   
-  <p align="center">
-  <img src="https://media0.giphy.com/media/TcdpZwYDPlWXC/giphy.gif"/>
-</p>
+ 
