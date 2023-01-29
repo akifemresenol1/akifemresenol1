@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
 <div align="center"> 
-### 💻 &nbsp;About Me
+ 💻 &nbsp;About Me
 
 ### 🛠 &nbsp;Tech Stack
 
