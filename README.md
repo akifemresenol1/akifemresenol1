@@ -1,7 +1,7 @@
 
 
 <p align="center" >
-  <img src="https://images.squarespace-cdn.com/content/v1/59563cc7d1758e94f21a8315/1525523683335-AHTYNEVYI5RL254EF9N5/lets+connect.png"/>
+  <img src="https://www.helenjjchen.com/img/connect.png"/>
   </p>
 
 <div align="center"> 
