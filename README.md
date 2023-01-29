@@ -1,8 +1,5 @@
 
-
- <p align="center" >
-  <img src="https://www.helenjjchen.com/img/connect.png"/>
-  </p> 
+### 🤝🏻 &nbsp;Connect with Me
 
 <div align="center"> 
 
