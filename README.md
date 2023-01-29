@@ -1,7 +1,7 @@
 
 
-<p align="center" margin="10px">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOS1Jfosptio4XKw4SB2lURAg_Ra4lz_YVkEvz9HZ3FdQM-VculRWk8IFmLZwlwaD33Y&usqp=CAU"/>
+<p align="center" >
+  <img src="https://images.squarespace-cdn.com/content/v1/5e2fd1e11a9bab7950f09365/1581545826253-IT9OASTMMSVZRUQ058PR/Untitled_Artwork+23.png?format=1000w"/>
   </p>
 
 <div align="center"> 
