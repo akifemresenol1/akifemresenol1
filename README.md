@@ -1,8 +1,8 @@
+<h1 align="center" > CONNECT WITH ME</h1>
 
-
-<p align="center" >
+/* <p align="center" >
   <img src="https://www.helenjjchen.com/img/connect.png"/>
-  </p>
+  </p> */
 
 <div align="center"> 
 
