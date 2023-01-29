@@ -5,7 +5,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<div align="center"> 
+<div align=""> 
 
 <a href="https://www.linkedin.com/in/akif-emre-şenol-069740258/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
