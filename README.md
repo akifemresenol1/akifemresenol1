@@ -17,6 +17,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
+ 
+ 
+ 
+ <img align= "right" width= "240" src= "https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b7611066ebe04d2dbbd8fa8a3dde307f8193b8e554267&rid=giphy.gif&ct=g"/>
+
 
 
 
