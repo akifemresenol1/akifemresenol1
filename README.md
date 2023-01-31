@@ -3,7 +3,7 @@
 </p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
-<div align="center"> 
+
  💻 &nbsp;About Me
  
  💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -14,7 +14,7 @@
  
  <img align= "right" width= "240" src= "https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b7611066ebe04d2dbbd8fa8a3dde307f8193b8e554267&rid=giphy.gif&ct=g"/>
  
-
+<div align="center"> 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -24,8 +24,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+<div align="center"> 
 ### 🤝🏻 &nbsp;Connect with Me
+ <div/>
 
 <a href="https://www.linkedin.com/in/akif-emre-şenol-069740258/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
