@@ -23,6 +23,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
+ 
+  <img align= "right" width= "200" src= "https://media4.giphy.com/media/cre100qd4wZ2pV6XIG/giphy.gif?cid=790b7611a6b8fc535099529d0978268b5e36bb51ed15dc17&rid=giphy.gif&ct=g"/>
 
 
 <a href="https://www.linkedin.com/in/akif-emre-şenol-069740258/">
