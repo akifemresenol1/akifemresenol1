@@ -24,8 +24,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
  
-  <img align= "left"  width= "100"  src= "https://media4.giphy.com/media/cre100qd4wZ2pV6XIG/giphy.gif?cid=790b7611a6b8fc535099529d0978268b5e36bb51ed15dc17&rid=giphy.gif&ct=g"/>
-
 
 <a href="https://www.linkedin.com/in/akif-emre-şenol-069740258/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -46,7 +44,8 @@
 </a>
 <br>
   
- <img align= "right" width= "200" src= "https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b7611066ebe04d2dbbd8fa8a3dde307f8193b8e554267&rid=giphy.gif&ct=g"/>
+ <img align= "left"  width= "200"  src= "https://media4.giphy.com/media/cre100qd4wZ2pV6XIG/giphy.gif?cid=790b7611a6b8fc535099529d0978268b5e36bb51ed15dc17&rid=giphy.gif&ct=g"/>
+
   </div>
   
  
