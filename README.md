@@ -5,17 +5,17 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
 <div align="center"> 
  💻 &nbsp;About Me
-
-  <div align="left"> 
+<div/>
+  
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Javascript and React.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at akifemresenol1@gmail.com! I'll try to respond as soon as I can.\
- <div/>
+
  
  <img align= "right" width= "240" src= "https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b7611066ebe04d2dbbd8fa8a3dde307f8193b8e554267&rid=giphy.gif&ct=g"/>
  
- 
+ <div align="center"> 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
