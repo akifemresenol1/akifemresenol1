@@ -1,5 +1,5 @@
  <p align="center">
-  <img width= "1000" src="https://media3.giphy.com/media/zF1zz0K53ZDC8/giphy.gif?cid=ecf05e47cv4tip1a2fw4ja6l818nsobsv2i4ngmyc1fxsmih&rid=giphy.gif&ct=g"/>
+  <img width= "1000" src="https://media3.giphy.com/media/TcdpZwYDPlWXC/giphy.gif?cid=790b761110dd7be7a1d4c8c51b9f64dac2056d48ffe1646b&rid=giphy.gif&ct=g"/>
 </p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
@@ -44,7 +44,7 @@
 </a>
 <br>
   
- <img align= "right"  width= "200"  src= "https://media4.giphy.com/media/cre100qd4wZ2pV6XIG/giphy.gif?cid=790b7611a6b8fc535099529d0978268b5e36bb51ed15dc17&rid=giphy.gif&ct=g"/>
+ <img align= "right"  width= "200"  src= "https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=790b76110aede14eece9a80146e83c9e4d29b5a4bbf5cbb7&rid=giphy.gif&ct=s"/>
 
   </div>
   
