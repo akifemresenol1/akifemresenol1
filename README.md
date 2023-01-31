@@ -5,6 +5,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
 <div align="center"> 
  💻 &nbsp;About Me
+ <br>
 
  
  <img align= "" width= "200" src= "https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b7611066ebe04d2dbbd8fa8a3dde307f8193b8e554267&rid=giphy.gif&ct=g"/>
