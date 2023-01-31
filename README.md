@@ -1,5 +1,5 @@
  <p align="center">
-  <img width= "1000" src="https://media3.giphy.com/media/TcdpZwYDPlWXC/giphy.gif?cid=790b761110dd7be7a1d4c8c51b9f64dac2056d48ffe1646b&rid=giphy.gif&ct=g"/>
+  <img width= "800" src="https://media3.giphy.com/media/TcdpZwYDPlWXC/giphy.gif?cid=790b761110dd7be7a1d4c8c51b9f64dac2056d48ffe1646b&rid=giphy.gif&ct=g"/>
 </p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
