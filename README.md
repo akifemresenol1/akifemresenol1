@@ -3,8 +3,9 @@
 </p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
-
+<div align="center"> 
  💻 &nbsp;About Me
+ <div/>
  
  💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Javascript and React.\
@@ -24,9 +25,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<div align="center"> 
+
 ### 🤝🏻 &nbsp;Connect with Me
- <div/>
+
 
 <a href="https://www.linkedin.com/in/akif-emre-şenol-069740258/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
