@@ -23,6 +23,10 @@
 <a href="https://www.linkedin.com/in/akif-emre-şenol-069740258/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+ 
+ <a href="mailto:akifemresenol1@gmail.com">
+  <img height="50" src="https://ih1.redbubble.net/image.4090516662.6550/st,small,507x507-pad,600x600,f8f8f8.jpg"/>
+</a>
 
 
 <a href="https://www.instagram.com/akifemresenol/">
