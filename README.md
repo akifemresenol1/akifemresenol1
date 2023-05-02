@@ -4,7 +4,7 @@
 
 <hr>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
+## 👋 &nbsp;Hey there! I'm Akif Emre 
 <div align="center"> 
  
 <hr>
