@@ -5,15 +5,17 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
 <div align="center"> 
  💻 &nbsp;About Me
-
-
  
- 
+💡  I like to explore new technologies and develop software solutions and quick hacks. 
 
+ 🌱  I'm on track for learning more about Javascript and React. 
+ 
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion. 
  
  
 ### 🛠 &nbsp;Tech Stack
 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -47,5 +49,16 @@
  <img align= "right"  width= "200"  src= "https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=790b76110aede14eece9a80146e83c9e4d29b5a4bbf5cbb7&rid=giphy.gif&ct=s"/>
 
   </div>
-  
+ 
+  <hr>
+
+<details>
+<summary>:bulb: Github Stats  </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=akifemresenol1">
+</details>
+ 
+ <details>
+<summary>:bulb: Most Used Languages </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifemresenol1&layout=compact">
+</details>
  
