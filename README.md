@@ -4,7 +4,9 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akif Emre -->
 <div align="center"> 
+ 
  💻 &nbsp;About Me
+ <hr>
  
 💡  I like to explore new technologies and develop software solutions and quick hacks. 
 
@@ -56,6 +58,8 @@
 <summary>:bulb: Github Stats  </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=akifemresenol1">
 </details>
+ 
+ <hr>
  
  <details>
 <summary>:bulb: Most Used Languages </summary>
